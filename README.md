@@ -14,9 +14,13 @@
 ### Here's a breakdown of the functionalities
 
 Users can add new tasks by a title.
+
 Users can view a list of their tasks.
+
 Users can mark the task as completed.
+
 Users can delete tasks.
+
 All task data is synchronized with Firebase Realtime Database, ensuring data persistence and accessibility across devices.
 
 ### Screens
